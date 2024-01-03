@@ -44,6 +44,9 @@ const navItems = [
   { name: 'Dashboard', to: '/dashboard'},
   { name: 'Team', to: '/team'},
   { name: 'Projects', to: '/projects'},
-  { name: 'Calendar', to: '/calendar'}
+  { name: 'Calendar', to: '/calendar'},
+  { name: 'About', to: '/about'},
+  { name: 'Login', to: '/auth/login'},
+  { name: 'Logout', to: '/auth/logout'},
 ]
 </script>
